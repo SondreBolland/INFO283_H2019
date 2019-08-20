@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f8ad6d0-663c-4ab3-8ded-437da31e612d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/EightGameNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/EightGameNode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/MoveTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/MoveTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab2/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="293">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -173,11 +166,6 @@
               <item name="INFO283_V2019" type="462c0819:PsiDirectoryNode" />
               <item name="Lab1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="INFO283_V2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="INFO283_V2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -290,12 +278,12 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35261193" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11567164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="293">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>

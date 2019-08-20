@@ -29,4 +29,4 @@ try:
     else:
         print("No solution")
 except BaseException as err:
-    print(err + "kake")
+    print(err)
