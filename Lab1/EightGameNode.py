@@ -58,8 +58,8 @@ class EightGameNode:
     def __str__(self):
         string = ""
         for row in self.board:
-            string += row + "\n"
-        string += "-----------"
+            string += str(row) + "\n"
+        string += "----------\n"
         return string
 
     def __hash__(self):
