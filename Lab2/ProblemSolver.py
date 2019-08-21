@@ -31,7 +31,7 @@ class ProblemSolver(ABC):
                 return path
             self.update_frontier(path)
 
-            if n_nodes % 1000 == 0:
+            if n_nodes % 1000 == 0 and n_nodes != 0:
                 print("Nodes searched: " + str(n_nodes))
             n_nodes += 1
         return None
