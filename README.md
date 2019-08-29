@@ -7,7 +7,8 @@ Welcome to the course INFO283, Grunnleggende algoritmer i kunstig intelligens.
 https://github.com/SonjerBolan/INFO283_V2019/raw/master/LabOppgave1.pdf
 
 ## Lab2 (mandatory)
- - Unavailable
+#### Assignment text:
+[Assignment2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Lab3
  - Unavailable
