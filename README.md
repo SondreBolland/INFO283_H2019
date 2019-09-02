@@ -1,5 +1,5 @@
 # INFO283 fall 2019
-Welcome to the course INFO283, Grunnleggende algoritmer i kunstig intelligens.
+Welcome to the course INFO283, Grunnleggende algoritmer i kunstig intelligens
 
 
 ## Lab 1
