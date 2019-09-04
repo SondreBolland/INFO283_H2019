@@ -11,7 +11,7 @@ board = [[1, 2, 3], [4, 5, 6], [7, 0, 8]]
 #board = [[1, 2, 3], [4, 0, 6], [7, 5, 8]]
 #board = [[1, 2, 3], [4, 5, 6], [0, 7, 8]]
 #board = [[0, 1, 2], [3, 4, 5], [6, 7, 8]]
-try:
+try: 
     node = EightGameNode(board)
     node.set_cost(0)
     space = Eight_game_space()
