@@ -85,7 +85,7 @@ class Eight_game_space:
     # Switch between heuristic functions
     def heuristic(self, node):
         return 0
-        #return node.hammming_distance(self.goal_node)
+        #return node.hamming_distance(self.goal_node)
         #return node.manhattan_distance(self.goal_node)
         #return node.own_h(self.goal_node)
 
