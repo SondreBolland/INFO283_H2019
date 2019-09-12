@@ -3,7 +3,7 @@ Welcome to the course INFO283, Grunnleggende algoritmer i kunstig intelligens
 
 
 ## Lab 1
-[Assignment1](https://github.com/SonjerBolan/INFO283_V2019/raw/master/LabOppgave1.pdf)
+[Assignment1](https://github.com/SonjerBolan/INFO283_H2019/raw/master/Oppgave1.pdf)
 
 ## Lab2 (mandatory)
 Pulished: 13.09.2019
