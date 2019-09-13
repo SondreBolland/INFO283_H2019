@@ -19,6 +19,6 @@ Published: 11.10.2019
 [Assignment4](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  
 ## Lab5 (mandatory)
-Published: 25.10.2019
+Published: 18.10.2019
 
 [Assignment5](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
