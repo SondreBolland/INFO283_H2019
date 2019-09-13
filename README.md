@@ -13,17 +13,12 @@ Published: 27.09.2019
 
 [Assignment3](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  
-## Lab4 (mandatory)
+## Lab4
 Published: 11.10.2019
 
 [Assignment4](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  
-## Lab5
+## Lab5 (mandatory)
 Published: 25.10.2019
 
 [Assignment5](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
- 
-## Lab6 mandatory
-Published: 01.11.2019
-
-[Assignment6](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
