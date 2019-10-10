@@ -12,9 +12,7 @@ Welcome to the course INFO283, Grunnleggende algoritmer i kunstig intelligens
 [Assignment3](https://github.com/SonjerBolan/INFO283_H2019/raw/master/Oppgave3.pdf)
  
 ## Lab4, Soft CSP
-Published: 11.10.2019
-
-[Assignment4](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Assignment4](https://github.com/SonjerBolan/INFO283_H2019/raw/master/Oppgave4.pdf)
  
 ## Lab5, Game Algorithms (mandatory)
 Published: 18.10.2019
