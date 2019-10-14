@@ -41,7 +41,7 @@ class InvitationProblem:
         if diff == 0:
             return 20.0
         if diff == 1:
-            return 25.0
+            return 15.0
         if diff == 2:
             return 10.0
         if diff == 3:
